@@ -1,3 +1,3 @@
 # etablissement
 
-Projet fait par Omar Foudane, Amel Traoure et Teoman Yilmaz.
+Projet réalisé par Omar Foudane, Amel Traoré et Teoman Yilmaz.
